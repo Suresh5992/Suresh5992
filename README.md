@@ -4,7 +4,7 @@ I am an enthusiastic candidate seeking roles as a DevOps Engineer and AWS Cloud 
 
  
 - 🌱 I’m currently learning DevOps and Cloud.
-- 📫 How to reach me mail to: kishanrampure59@gmail.com.
+- 📫 How to reach me mail to: Surya.k9010@gmail.com.
 
 ## Skills and tools
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,linux,git,github,jenkins,kubernetes,docker,ansible,terraform,vscode,bash,ubuntu,windows,mysql)](https://skillicons.dev)
