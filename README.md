@@ -13,7 +13,7 @@ I am an enthusiastic candidate seeking roles as a DevOps Engineer and AWS Cloud 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qsury-a-g-2b505b212/)
 
 ## Major Projects
-- BoardGame
+- Bingo-Game
 
 - ![Bingo-APP](https://github.com/Suresh5992/Suresh5992/assets/107224549/53164679-c989-4684-904d-047160473a8d)
 
