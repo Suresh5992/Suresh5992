@@ -15,7 +15,11 @@ I am an enthusiastic candidate seeking roles as a DevOps Engineer and AWS Cloud 
 ## Major Projects
 - Bingo-Game
 
-- ![Bingo-APP](https://github.com/Suresh5992/Suresh5992/assets/107224549/53164679-c989-4684-904d-047160473a8d)
+ ![Bingo-APP](https://github.com/Suresh5992/Suresh5992/assets/107224549/53164679-c989-4684-904d-047160473a8d)
+
+ - Wanderlust
+ - ![wanderlust-App](https://github.com/Suresh5992/Suresh5992/assets/107224549/ccacb256-a177-49d4-a3b8-2f50fcc6e78c)
+
 
 ### 
 
