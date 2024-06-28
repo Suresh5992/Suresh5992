@@ -7,7 +7,7 @@ I am an enthusiastic candidate seeking roles as a DevOps Engineer and AWS Cloud 
 - 📫 How to reach me mail to: Surya.k9010@gmail.com.
 
 ## Skills and tools
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,linux,git,github,jenkins,kubernetes,docker,ansible,terraform,vscode,bash,ubuntu,windows,mysql,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,linux,git,github,jenkins,kubernetes,docker,ansible,terraform,Helm,Grafana,prometheus,nodeexpoter,vscode,bash,ubuntu,windows,mysql,html,css)](https://skillicons.dev)
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qsury-a-g-2b505b212/)
