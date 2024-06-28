@@ -19,7 +19,9 @@ I am an enthusiastic candidate seeking roles as a DevOps Engineer and AWS Cloud 
 
  ![Bingo-APP](https://github.com/Suresh5992/Suresh5992/assets/107224549/53164679-c989-4684-904d-047160473a8d)
  
+ 
  - ![wanderlust-App](https://github.com/Suresh5992/Suresh5992/assets/107224549/ccacb256-a177-49d4-a3b8-2f50fcc6e78c)
+   
 
  - ![Netflix](https://github.com/Suresh5992/Suresh5992/assets/107224549/b400d83b-3fa9-4f9a-960f-d902c19d4d79)
 
